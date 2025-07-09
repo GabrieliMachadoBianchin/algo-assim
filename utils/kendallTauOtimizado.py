@@ -1,4 +1,3 @@
-#utils/kendallTauOtimizado.py
 """
 Apenas preve casos do Kendall Tau-a, ou seja, ignora empates
 """
